@@ -1,2 +1,2 @@
 # Vision-Notes
-Notes app for Vission Pro
+Notes app for Vision Pro
