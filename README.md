@@ -1,4 +1,2 @@
-# note-app-visionos
 
-A Note App Prototype for VisionOS. Read more about the story behind the app below!
-https://cordovaputra.com/works/spatial-experience
+Vision Notes is an Conceptual Notes App completley build Natively for VisionOs (Apple Vision Pro)
